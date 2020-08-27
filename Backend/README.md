@@ -13,7 +13,6 @@ npm run stack:up;
 npm install;
 npm start;
 ```
-5. Test skeleton project locally by navigating to localhost:9999/hello
 
 #### Cleanup
 ```bash
