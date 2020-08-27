@@ -9,7 +9,7 @@ Frontend using React Hooks
 npm install;
 ```
 
-# Backend
+## Backend
 API using the serverless framework CLI.
 
 #### Prerequisites & Setup
