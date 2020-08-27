@@ -4,9 +4,10 @@
 Simple REST API for Employee Management
 Frontend using React Hooks
 
-#### Dependencies
+#### Dependencies & Setup
 ```bash
 npm install;
+npm start;
 ```
 
 ## Backend
