@@ -1,4 +1,5 @@
-Simple REST API for Employee Management
+# Employee API
+Simple REST API for Employee Management using React Hooks
 
 #### Setup
 
